@@ -1,2 +1,3 @@
 # codeAcademy
-Needed continuous practice with syntax, so this is additional study outside of Coding Dojo.
+Needed continuous practice to retain concepts and syntax.
+This is additional study outside of CDDC coursework.
